@@ -1,0 +1,132 @@
+[ 2015-10-08T16:39:51+08:00 ] 127.0.0.1 /tp2/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.021942s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.041187s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.074675s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.074880s ]
+INFO: [ view_filter ] --START--
+NOTIC: [8] Use of undefined constant APP_TMPL_PATH - assumed 'APP_TMPL_PATH' C:\AppServ\www\tp2\ThinkPHP\Lib\Behavior\ContentReplaceBehavior.class.php 第 40 行.
+NOTIC: [8] Use of undefined constant APP_TMPL_PATH - assumed 'APP_TMPL_PATH' C:\AppServ\www\tp2\ThinkPHP\Lib\Behavior\ContentReplaceBehavior.class.php 第 47 行.
+INFO: ContentReplace Behavior ::run [ RunTime:0.002634s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002509s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002313s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002975s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.010788s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004818s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004986s ]
+
+[ 2015-10-08T17:43:44+08:00 ] 127.0.0.1 /tp2/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.024053s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.024191s ]
+
+[ 2015-10-08T17:44:15+08:00 ] 127.0.0.1 /tp2/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001805s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001927s ]
+
+[ 2015-10-08T17:44:51+08:00 ] 127.0.0.1 /tp2/Index/Admin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.018518s ]
+INFO: [ route_check ] --END-- [ RunTime:0.018649s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001623s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001702s ]
+ERR: 无法加载模块:Index
+
+[ 2015-10-08T17:44:59+08:00 ] 127.0.0.1 /tp2/index.php/Admin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002244s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002374s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001620s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001700s ]
+ERR: 无法加载模块:Index
+
+[ 2015-10-08T17:46:09+08:00 ] 127.0.0.1 /tp2/index.php/Admin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001600s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001756s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001138s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001229s ]
+ERR: 无法加载模块:Index
+
+[ 2015-10-08T17:46:10+08:00 ] 127.0.0.1 /tp2/index.php/Admin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000901s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001015s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000588s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000671s ]
+ERR: 无法加载模块:Index
+
+[ 2015-10-08T17:46:10+08:00 ] 127.0.0.1 /tp2/index.php/Admin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001373s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001595s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000711s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001151s ]
+ERR: 无法加载模块:Index
+
+[ 2015-10-08T17:46:12+08:00 ] 127.0.0.1 /tp2/index.php/admin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000891s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001008s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000595s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000679s ]
+ERR: 无法加载模块:Index
+
+[ 2015-10-08T17:47:00+08:00 ] 127.0.0.1 /tp2/index.php/admin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001998s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002139s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003133s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003313s ]
+ERR: 非法操作:index
+
+[ 2015-10-08T17:47:05+08:00 ] 127.0.0.1 /tp2/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001644s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001757s ]
+
+[ 2015-10-08T17:47:11+08:00 ] 127.0.0.1 /tp2/index.php/Admin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001133s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001237s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001602s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001679s ]
+ERR: 非法操作:index
+
+[ 2015-10-08T17:48:12+08:00 ] 127.0.0.1 /tp2/index.php/Admin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001789s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001911s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001619s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001697s ]
+
+[ 2015-10-08T17:55:05+08:00 ] 127.0.0.1 /tp2/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002058s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002187s ]
+
+[ 2015-10-08T17:55:38+08:00 ] 127.0.0.1 /tp2/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001622s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001731s ]
+
+[ 2015-10-08T18:01:32+08:00 ] 127.0.0.1 /tp2/index.php/admin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001568s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001715s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001758s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001864s ]
+
