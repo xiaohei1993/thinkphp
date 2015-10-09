@@ -13,8 +13,9 @@ return array(
 	'DB_PREFIX'=>'hd_',
 	//点语法默认解析
 	'TMPL_VAR_IDENTIFY'=>'array',
-	//'TMPL_FILE_DEPR'=>'_',
-);
+	'TMPL_FILE_DEPR'=>'_',
+	//少一个index文件夹,用index_index.php来代替
+);	//控制器名称_模板名称.php
 ?>
 <!-- 1.配置index.php和Lib/Action下的Admin和Index的IndexAction.class.php
 2.配置公用的config.php，开启分组 如需分离，创建各自的admin.index的function.php

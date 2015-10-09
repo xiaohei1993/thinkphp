@@ -215,3 +215,946 @@ INFO: [ view_end ] --START--
 INFO: ShowPageTrace Behavior ::run [ RunTime:0.001660s ]
 INFO: [ view_end ] --END-- [ RunTime:0.001730s ]
 
+[ 2015-10-09T13:39:53+08:00 ] 127.0.0.1 /tp2/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002083s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002222s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.059864s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.060008s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001564s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001476s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001346s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001633s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006238s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001680s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001755s ]
+
+[ 2015-10-09T13:40:56+08:00 ] 127.0.0.1 /tp2/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001848s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002002s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.020836s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021057s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001581s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001497s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001351s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001680s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006337s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002203s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002287s ]
+
+[ 2015-10-09T13:47:18+08:00 ] 127.0.0.1 /tp2/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002002s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002136s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.022110s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022252s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002101s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001709s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001495s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001960s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007607s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002541s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002637s ]
+
+[ 2015-10-09T13:50:26+08:00 ] 127.0.0.1 /tp2/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001767s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001910s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.016767s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016908s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001548s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001592s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001701s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001582s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006660s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001845s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001934s ]
+
+[ 2015-10-09T13:58:51+08:00 ] 127.0.0.1 /tp2/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002305s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002626s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.015919s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016045s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001511s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001442s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001348s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001553s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006063s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001687s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001759s ]
+
+[ 2015-10-09T14:01:22+08:00 ] 127.0.0.1 /tp2/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001256s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001393s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.021858s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022006s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001593s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001550s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001567s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001581s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006558s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001680s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001755s ]
+
+[ 2015-10-09T14:03:04+08:00 ] 127.0.0.1 /tp2/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001674s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001788s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.015491s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015605s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001548s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001487s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001367s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001525s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006144s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001916s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001994s ]
+
+[ 2015-10-09T14:03:09+08:00 ] 127.0.0.1 /tp2/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001897s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002055s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.041678s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.041792s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001507s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001566s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001403s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001615s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006325s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001702s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001776s ]
+
+[ 2015-10-09T14:04:10+08:00 ] 127.0.0.1 /tp2/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001851s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001971s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.015865s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015983s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001557s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001500s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001408s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001554s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006252s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001671s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001744s ]
+
+[ 2015-10-09T14:04:14+08:00 ] 127.0.0.1 /tp2/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001826s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001945s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.016064s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016176s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001484s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001493s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001383s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001570s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006162s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001679s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001753s ]
+
+[ 2015-10-09T14:04:15+08:00 ] 127.0.0.1 /tp2/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001676s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001787s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.015928s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016045s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001544s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001476s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001133s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001783s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006219s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002180s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002277s ]
+
+[ 2015-10-09T14:04:17+08:00 ] 127.0.0.1 /tp2/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001660s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001773s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.016076s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016198s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001644s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001522s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001099s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001718s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006228s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001733s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001811s ]
+
+[ 2015-10-09T14:04:19+08:00 ] 127.0.0.1 /tp2/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001850s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001963s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.025707s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025825s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001544s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002691s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001727s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001576s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007853s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001692s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001764s ]
+
+[ 2015-10-09T14:04:19+08:00 ] 127.0.0.1 /tp2/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001763s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001886s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.016271s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016400s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001491s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001478s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001512s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001587s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006297s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001914s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001999s ]
+
+[ 2015-10-09T14:06:22+08:00 ] 127.0.0.1 /tp2/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001140s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001250s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.017056s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017172s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001492s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001518s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001397s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001711s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006356s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001735s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001810s ]
+
+[ 2015-10-09T14:06:33+08:00 ] 127.0.0.1 /tp2/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001620s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001723s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.019732s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019905s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.005376s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002216s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001505s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001821s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.011270s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002343s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002435s ]
+
+[ 2015-10-09T14:06:34+08:00 ] 127.0.0.1 /tp2/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001897s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002082s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.017931s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018045s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001501s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001452s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001336s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001678s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006178s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002042s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002132s ]
+
+[ 2015-10-09T14:06:34+08:00 ] 127.0.0.1 /tp2/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001789s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001941s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.016425s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016545s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001479s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001449s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001334s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001520s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005978s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001736s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001813s ]
+
+[ 2015-10-09T14:06:35+08:00 ] 127.0.0.1 /tp2/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.007519s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007668s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.017385s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017511s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001506s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001449s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001508s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001546s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006227s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001691s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001763s ]
+
+[ 2015-10-09T14:06:35+08:00 ] 127.0.0.1 /tp2/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001742s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001868s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.020041s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020163s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001656s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001539s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001374s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001532s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006338s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001673s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001744s ]
+
+[ 2015-10-09T14:06:35+08:00 ] 127.0.0.1 /tp2/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001722s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001853s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.017267s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017396s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.005574s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003329s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001704s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002033s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.012993s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003890s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004016s ]
+
+[ 2015-10-09T14:06:35+08:00 ] 127.0.0.1 /tp2/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001753s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001884s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.027819s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027995s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002516s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001697s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.028781s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001888s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.035267s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003091s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003387s ]
+
+[ 2015-10-09T14:06:36+08:00 ] 127.0.0.1 /tp2/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001678s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001798s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.047687s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.047808s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002103s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002141s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001515s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001760s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007959s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002043s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002140s ]
+
+[ 2015-10-09T14:08:46+08:00 ] 127.0.0.1 /tp2/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001273s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001390s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.017490s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017623s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001548s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001485s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001466s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001604s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006341s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001688s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001765s ]
+
+[ 2015-10-09T14:09:21+08:00 ] 127.0.0.1 /tp2/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001676s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001796s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.029337s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029507s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001842s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001685s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001455s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001923s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007320s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001810s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001892s ]
+
+[ 2015-10-09T14:17:25+08:00 ] 127.0.0.1 /tp2/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001840s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001977s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.032268s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032416s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002803s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001654s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001426s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002526s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008709s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001823s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001927s ]
+
+[ 2015-10-09T14:18:46+08:00 ] 127.0.0.1 /tp2/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001651s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001764s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.016441s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016563s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001830s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001460s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001337s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001810s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006652s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001676s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001749s ]
+
+[ 2015-10-09T14:23:40+08:00 ] 127.0.0.1 /tp2/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001700s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001822s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.018998s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019113s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001533s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001481s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001379s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001560s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006190s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001672s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001744s ]
+
+[ 2015-10-09T14:24:56+08:00 ] 127.0.0.1 /tp2/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001165s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001279s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.016386s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016500s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001563s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001918s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001840s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001788s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007431s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001693s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001770s ]
+
+[ 2015-10-09T14:25:02+08:00 ] 127.0.0.1 /tp2/index.php/Index/Index/handle
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.029215s ]
+INFO: [ route_check ] --END-- [ RunTime:0.029371s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001743s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001845s ]
+
+[ 2015-10-09T14:25:04+08:00 ] 127.0.0.1 /tp2/index.php/Index/Index/handle
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001703s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001812s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001657s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001728s ]
+
+[ 2015-10-09T14:25:05+08:00 ] 127.0.0.1 /tp2/index.php/Index/Index/handle
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001728s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001857s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001652s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001739s ]
+
+[ 2015-10-09T14:25:06+08:00 ] 127.0.0.1 /tp2/index.php/Index/Index/handle
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001764s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001879s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001691s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001781s ]
+
+[ 2015-10-09T14:25:06+08:00 ] 127.0.0.1 /tp2/index.php/Index/Index/handle
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001658s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001768s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001695s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001788s ]
+
+[ 2015-10-09T14:25:06+08:00 ] 127.0.0.1 /tp2/index.php/Index/Index/handle
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001632s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001739s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001648s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001728s ]
+
+[ 2015-10-09T14:25:07+08:00 ] 127.0.0.1 /tp2/index.php/Index/Index/handle
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001631s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001732s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001596s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001666s ]
+
+[ 2015-10-09T14:25:08+08:00 ] 127.0.0.1 /tp2/index.php/Index/Index/handle
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001686s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001799s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001671s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001767s ]
+
+[ 2015-10-09T14:25:26+08:00 ] 127.0.0.1 /tp2/index.php/Index/Index/handle
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001928s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002056s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002116s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002235s ]
+
+[ 2015-10-09T14:26:23+08:00 ] 127.0.0.1 /tp2/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.021639s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.021793s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.102911s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.103041s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.013119s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.016232s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.009479s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002238s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.041482s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.016344s ]
+INFO: [ view_end ] --END-- [ RunTime:0.016454s ]
+
+[ 2015-10-09T14:30:42+08:00 ] 127.0.0.1 /tp2/index.php/Index/Index/handle
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.041815s ]
+INFO: [ route_check ] --END-- [ RunTime:0.041957s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002970s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003089s ]
+
+[ 2015-10-09T14:31:50+08:00 ] 127.0.0.1 /tp2/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001860s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.106561s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.106704s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.008707s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.006575s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.011440s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002528s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.029607s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003856s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003967s ]
+
+[ 2015-10-09T14:31:55+08:00 ] 127.0.0.1 /tp2/index.php/Index/Index/handle
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001785s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001914s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001693s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001800s ]
+
+[ 2015-10-09T14:34:38+08:00 ] 127.0.0.1 /tp2/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001752s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001877s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.021930s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022051s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001519s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001460s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001544s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001605s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006353s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001700s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001774s ]
+
+[ 2015-10-09T14:34:42+08:00 ] 127.0.0.1 /tp2/index.php/Index/Index/handle
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002066s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002201s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001741s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001828s ]
+
+[ 2015-10-09T15:07:59+08:00 ] 127.0.0.1 /tp2/index.php/Index/Index/handle
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.052021s ]
+INFO: [ route_check ] --END-- [ RunTime:0.052170s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.022977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.023123s ]
+
+[ 2015-10-09T16:05:51+08:00 ] 127.0.0.1 /tp2/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.019553s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.021309s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.319784s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.319982s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.016379s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.006518s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.007388s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002851s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.033637s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.007828s ]
+INFO: [ view_end ] --END-- [ RunTime:0.007993s ]
+
+[ 2015-10-09T16:07:47+08:00 ] 127.0.0.1 /tp2/index.php/Index/Index/handle
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.013209s ]
+INFO: [ route_check ] --END-- [ RunTime:0.013688s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002119s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002291s ]
+
+[ 2015-10-09T16:07:48+08:00 ] 127.0.0.1 /tp2/index.php/Index/Index/handle
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002165s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002310s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001769s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002039s ]
+
+[ 2015-10-09T16:07:49+08:00 ] 127.0.0.1 /tp2/index.php/Index/Index/handle
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001983s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002103s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001673s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001761s ]
+
+[ 2015-10-09T16:07:49+08:00 ] 127.0.0.1 /tp2/index.php/Index/Index/handle
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002139s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002297s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002106s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002969s ]
+
+[ 2015-10-09T16:07:50+08:00 ] 127.0.0.1 /tp2/index.php/Index/Index/handle
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002140s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002870s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002215s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002417s ]
+
+[ 2015-10-09T16:07:50+08:00 ] 127.0.0.1 /tp2/index.php/Index/Index/handle
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002332s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002554s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003209s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003360s ]
+
+[ 2015-10-09T16:07:50+08:00 ] 127.0.0.1 /tp2/index.php/Index/Index/handle
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003011s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003238s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001738s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001855s ]
+
+[ 2015-10-09T16:07:50+08:00 ] 127.0.0.1 /tp2/index.php/Index/Index/handle
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002235s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002416s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003134s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003283s ]
+
+[ 2015-10-09T16:07:51+08:00 ] 127.0.0.1 /tp2/index.php/Index/Index/handle
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002661s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002866s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001947s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002089s ]
+
+[ 2015-10-09T16:07:53+08:00 ] 127.0.0.1 /tp2/index.php/Index/Index/handle
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002250s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002429s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001778s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001872s ]
+
+[ 2015-10-09T16:07:53+08:00 ] 127.0.0.1 /tp2/index.php/Index/Index/handle
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001935s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002050s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001695s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001783s ]
+
+[ 2015-10-09T16:07:53+08:00 ] 127.0.0.1 /tp2/index.php/Index/Index/handle
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002478s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002639s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002478s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002626s ]
+
+[ 2015-10-09T16:07:54+08:00 ] 127.0.0.1 /tp2/index.php/Index/Index/handle
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002388s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002610s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001845s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001956s ]
+
+[ 2015-10-09T16:07:54+08:00 ] 127.0.0.1 /tp2/index.php/Index/Index/handle
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002350s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002481s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003188s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003338s ]
+
+[ 2015-10-09T16:07:55+08:00 ] 127.0.0.1 /tp2/index.php/Index/Index/handle
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002344s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002542s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001967s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002126s ]
+
+[ 2015-10-09T16:07:57+08:00 ] 127.0.0.1 /tp2/index.php/Index/Index/handle
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002186s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002348s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001869s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002004s ]
+
+[ 2015-10-09T16:08:00+08:00 ] 127.0.0.1 /tp2/index.php/Index/Index/handle
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002231s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002397s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001816s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001933s ]
+
+[ 2015-10-09T16:08:00+08:00 ] 127.0.0.1 /tp2/index.php/Index/Index/handle
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002010s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002177s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002233s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002401s ]
+
+[ 2015-10-09T16:08:49+08:00 ] 127.0.0.1 /tp2/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001635s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001746s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.130839s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.130980s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001590s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001579s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001450s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001812s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006667s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001832s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001922s ]
+
+[ 2015-10-09T16:08:54+08:00 ] 127.0.0.1 /tp2/index.php/Index/Index/handle
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001973s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002128s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002195s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002307s ]
+
+[ 2015-10-09T16:08:55+08:00 ] 127.0.0.1 /tp2/index.php/Index/Index/handle
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002177s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002322s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001660s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001735s ]
+
+[ 2015-10-09T16:08:56+08:00 ] 127.0.0.1 /tp2/index.php/Index/Index/handle
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001888s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001993s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001589s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001660s ]
+
+[ 2015-10-09T16:08:56+08:00 ] 127.0.0.1 /tp2/index.php/Index/Index/handle
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001913s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002025s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001596s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001667s ]
+
+[ 2015-10-09T16:08:56+08:00 ] 127.0.0.1 /tp2/index.php/Index/Index/handle
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001917s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002026s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001592s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001662s ]
+
+[ 2015-10-09T16:08:57+08:00 ] 127.0.0.1 /tp2/index.php/Index/Index/handle
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002050s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002187s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001612s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001684s ]
+
+[ 2015-10-09T16:08:57+08:00 ] 127.0.0.1 /tp2/index.php/Index/Index/handle
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001994s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002188s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002170s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002316s ]
+
+[ 2015-10-09T16:09:42+08:00 ] 127.0.0.1 /tp2/Index.php/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001887s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001994s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001754s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001837s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.034558s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.034683s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001511s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001646s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001279s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002290s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007043s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001776s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001851s ]
+
+[ 2015-10-09T16:09:48+08:00 ] 127.0.0.1 /tp2/Index.php/Index/Index/handle
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002233s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002352s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001606s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001678s ]
+
+[ 2015-10-09T16:09:59+08:00 ] 127.0.0.1 /tp2/Index.php/Index/Index/handle
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002031s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002148s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001998s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002122s ]
+
+[ 2015-10-09T16:44:46+08:00 ] 127.0.0.1 /tp2/Index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.032273s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.032421s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.116036s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.116168s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.008330s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.006534s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.007499s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002172s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.024843s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.008943s ]
+INFO: [ view_end ] --END-- [ RunTime:0.009049s ]
+
+[ 2015-10-09T16:51:30+08:00 ] 127.0.0.1 /tp2/Index.php/Index/Index/handle
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002383s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002668s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001400s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001538s ]
+

@@ -73,6 +73,23 @@ $(function () {
 		obj.val(obj.val() + phiz);
 	} );
 
+	//alert(handleUrl);
+	$('#send-btn').click(function(){
+		var username = $('input[name=username]');
+		var content = $('textarea[name=content]');
+		if (username.val()=='') {
+			alert('用户名不能为空');
+			username.focus();
+		};
+		if (content.val()=='') {
+			alert('内容不能为空');
+			content.focus();
+		};
+		$.post(handleUrl,{username:username.val(),content:content.val()},function (data) {
+
+		},'json');
+
+	});
 });
 
 /**

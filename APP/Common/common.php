@@ -1,5 +1,5 @@
 <?php 
-function p($array){
+function p ($array){
 	dump($array,1,'<pre>',0);
 }
  ?>
