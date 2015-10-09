@@ -5,8 +5,15 @@ return array(
 	'APP_GROUP_LIST' => 'Index,Admin',
 	// 默认分组，换下Admin就会指向后台
 	'DEFAULT_GROUP' => 'Index',
-	'username' => 'username one',//注意符号是=>而不是=
-	'pwd' => '123',
+	// 数据库配置
+	'DB_HOST'=>'localhost',
+	'DB_USER'=>'root',
+	'DB_PWD'=>'123456',
+	'DB_NAME'=>'tp',
+	'DB_PREFIX'=>'hd_',
+	//点语法默认解析
+	'TMPL_VAR_IDENTIFY'=>'array',
+	//'TMPL_FILE_DEPR'=>'_',
 );
 ?>
 <!-- 1.配置index.php和Lib/Action下的Admin和Index的IndexAction.class.php
